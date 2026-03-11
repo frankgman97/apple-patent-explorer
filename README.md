@@ -6,6 +6,8 @@ A custom-built analytics dashboard that transforms 3,000 Apple design patent rec
 
 This tool replaces manual spreadsheet tracking and expensive third-party patent analytics platforms, delivering immediate cost savings while enabling data-driven IP strategy decisions for legal, R&D, and executive leadership teams.
 
+![Executive Summary](docs/images/slide-1.png)
+
 ---
 
 ## Key Metrics at a Glance
@@ -29,6 +31,8 @@ This tool replaces manual spreadsheet tracking and expensive third-party patent 
 ## Dashboard: Portfolio Overview & Active Pipeline
 
 Real-time portfolio health monitoring across all prosecution stages.
+
+![Prosecution & Status Analysis](docs/images/slide-2.png)
 
 ### Portfolio Health Breakdown
 
@@ -62,6 +66,8 @@ Only 29 out of 3,000 applications were abandoned (0.97%). The vast majority of a
 ---
 
 ## Dashboard: Filing Trends & Inventor Intelligence
+
+![Portfolio Analytics](docs/images/slide-3.png)
 
 ### Filing Trends by Year
 
@@ -101,9 +107,11 @@ Only 29 out of 3,000 applications were abandoned (0.97%). The vast majority of a
 
 ---
 
-## Patents Database
+## Patents Database & Technical Architecture
 
 Searchable, sortable, and exportable patent records with 29 data columns.
+
+![How It Was Built](docs/images/slide-4.png)
 
 ### Key Features
 
